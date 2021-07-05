@@ -1,0 +1,74 @@
+h1{
+    font-size: 50px;
+}
+.orange{
+    color:orange
+} 
+body{
+    margin: 0;
+}   
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, orange);
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.part-1{
+    display: flex;
+    margin: 10px 20px 10px 20px;
+    padding: 10px 20px 10px 20px;
+    width: 85%;
+    
+}
+.part-2{
+    display: flex;
+    margin: 10px 20px 10px 20px;
+    padding: 10ps 20px 10px 20px;
+    width: 85%;
+    background-image: url(images/web1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.part-3{
+    background-image: url(images/web2.png);
+    background-repeat: no-repeat;
+}
+.baby-4{
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.baby-8{
+    display: flex;
+    margin-left: 3%;
+    margin-right: 2;
+    
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.baby-6{
+   
+    box-shadow: 10px 5px 30px grey;
+    margin-right: 15%;
+    padding-left: 50px;
+    padding-right: 25px;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    border-radius:7px
+}
+.baby-7{
+    box-shadow: 10px 5px 30px grey;
+    margin-right: 15%;
+    padding-left: 50px;
+    padding-right: 25px;
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon,orange);
+    border-image-slice: 1;
+    border-radius:7px
+}
+
