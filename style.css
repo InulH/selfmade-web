@@ -1,3 +1,6 @@
+.part-1{
+    background-image: url(images/web5.png);
+}
 h1{
     font-size: 50px;
 }
@@ -6,6 +9,7 @@ h1{
 } 
 body{
     margin: 0;
+    background-repeat: no-repeat;
 }   
 .link-button{
     text-decoration: none;
